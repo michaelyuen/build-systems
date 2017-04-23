@@ -2,4 +2,6 @@
 
 ## framework: angular 4
 
-## build tool: angular cli
+## build tool: system.js
+
+Cloned from https://github.com/angular/quickstart
